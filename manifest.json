@@ -1,0 +1,23 @@
+{
+  "name": "هدايتي سوبر ماركت",
+  "short_name": "هدايتي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "ضع هنا وصفاً بسيطاً لمدونتك",
+  "icons": [
+    {
+      "src": "https://draft.blogger.com/blog/post/edit/5361953158175714999/5685243880024342058#",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://draft.blogger.com/blog/post/edit/5361953158175714999/5685243880024342058#",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
