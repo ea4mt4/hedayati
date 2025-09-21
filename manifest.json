@@ -1,23 +1,21 @@
 {
-  "name": "هدايتي سوبر ماركت",
-  "short_name": "هدايتي",
-  "start_url": "/",
+  "name": "متجر هدايتي سوبر ماركت",
+  "short_name": "متجر هدايتي",
+  "start_url": "ضع هنا رابط صفحة المتجر الذي نسخته",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "description": "ضع هنا وصفاً بسيطاً لمدونتك",
+  "theme_color": "#2a8a2a",
+  "description": "تسوق الخضروات والفواكه الطازجة من هدايتي سوبر ماركت",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvozvLtrMqgRIG0vLWYTKKTds7cu7sZtJ_Muh3HP8usJBf4ur9uoNibeu_KExPzkPUGcp_KMG2IUtVP17iW94qq5KfS_0RXdKInUlAj6P6z8JzzW21YRuVTgOrq9OrrJj7qPdcTWF6OwlkgI75FG93CbRBmXrCg7mQeoJg6PNLdXntcacBOdSjySFp2sxU/s320/%D8%B4%D8%B9%D8%A7%D8%B1%20%D9%87%D8%AF%D8%A7%D9%8A%D8%AA%D9%8A.webp",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8D6HA0X5W0yXlknVRRkcyYsSv7hxpKdIypCpOr-hNRroH-91OoJV_JMfmJwfwcCrYeszRgVeViYx927LhP7UOWwTOafKrvhcSDtCgMZxmBiqEklS4WPZGESVZiK1pNoaJqUFrqgJwkp4IWXfjRXYkK91irEPbXA_yn0SNqlqQU2F_LTUtGwULSjch1raC/s1600/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20(8).png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvozvLtrMqgRIG0vLWYTKKTds7cu7sZtJ_Muh3HP8usJBf4ur9uoNibeu_KExPzkPUGcp_KMG2IUtVP17iW94qq5KfS_0RXdKInUlAj6P6z8JzzW21YRuVTgOrq9OrrJj7qPdcTWF6OwlkgI75FG93CbRBmXrCg7mQeoJg6PNLdXntcacBOdSjySFp2sxU/s320/%D8%B4%D8%B9%D8%A7%D8%B1%20%D9%87%D8%AF%D8%A7%D9%8A%D8%AA%D9%8A.webp",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyLIqb0_tyO3-cB_0i6Vx1J-9oRzIRJTWhiHR9vkGbRLZ7t5sORxbr-oEQRD-lu4ueex8YG0Ou10O4wG_Rz11KRWPtRrX_FuU4Rt-ivfapM6o38acMx_xsYrfHgagakjvAt1CM2MydIClIyqkvFa3eBmWCxiR5mMVXwyU7tO8GJqnx_PRUQjgDapssSYvY/s320/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20(9).png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
